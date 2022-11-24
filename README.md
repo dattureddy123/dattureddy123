@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @dattureddy123
+- 👋 Hi, I’m dattureddy
+-     I'm a student at  LPU 
 - 👀 I’m interested in cyber security
+-     
 - 🌱 I’m currently learning coading (python,HTML,)
 - 💞️ I’m looking to collaborate on CIA
 -
