@@ -1,12 +1,24 @@
-- 👋 Hi, I’m dattureddy
--     I'm a student at  LPU 
-- 👀 I’m interested in cyber security
--     
-- 🌱 I’m currently learning coading (python,HTML,)
-- 💞️ I’m looking to collaborate on CIA
--
--  
-<!---
-dattureddy123/dattureddy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Dattu Kumar Namburi 👋👋
+🔐 Aspiring Cybersecurity Analyst
+
+I am a Computer Science graduate passionate about cybersecurity, ethical hacking, and network security. I enjoy learning about security tools, solving real-world security challenges, and building projects that strengthen my technical skills.
+-  🚀 Technical Skills
+Java
+C++
+Linux
+
+🛡️ Cybersecurity Skills
+Network Security
+Ethical Hacking
+Vulnerability Assessment
+Digital Forensics
+Penetration Testing (Beginner)
+🔧 Tools & Technologies
+Wireshark
+Nmap
+Metasploit
+FTK
+Git & GitHub
+Connect With Me
+LinkedIn: https://www.linkedin.com/in/dattu-namburi-a88550254
+Email: namburidattu43@gmail.com
